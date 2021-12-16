@@ -119,7 +119,7 @@ If you feel you deserved a better grade on an assignment, you may contact me wit
 |-------------|-----------------------------------------------------------------|---------------------------|-------------------------------|
 |     1       |     Introduction   and Python review                            |                           |                               |
 |     2       |     Regular   expression and automata                           |     Assignment 1          |                               |
-|     3       |     Text normalizatioin                                         |     Assignment 1          |                               |
+|     3       |     Text normalizatioin                                         |               |                               |
 |     4       |     n-gram                                                      |                           |                               |
 |     5       |     Text classification and Naive Bayes                         |                           |     Assignment 1 due          |
 |     6       |     Part-of-speech tagging and sequence labelling               |     Project   Proposal    |                               |
