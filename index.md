@@ -2,6 +2,13 @@
 
 **Weill Cornell Medicine / Spring 2021**
 
+**Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
+**TA**: Braja Patra ([bgp4001@med.cornell.edu](bgp4001@med.cornell.edu))<br>
+**Office Hours**: 5:00-6:00 pm on Mondays by appointment (Location: TBD)<br>
+**Grading**: Letter grade
+
+## Rationale
+
 Natural language processing (NLP) is one of the most important technologies in artificial intelligence. In recent years, NLP applications in Medicine are everywhere because large quantities of free-text information stored in databases are waiting to be explored. In this course, students will gain a thorough introduction to NLP applications and cutting-edge research in Deep Learning for NLP.
 
 ## Logistics
